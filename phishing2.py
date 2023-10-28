@@ -92,7 +92,7 @@ def extract_feature_test(url,output):
         length_of_url = 1
     else:
         length_of_url = 0
-.
+    
 
     #url has http
     if (("http://" in url) or ("https://" in url)):
